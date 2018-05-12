@@ -1,0 +1,32 @@
+_repo: Portrait-and-Biography-of-Parson-Brownlow-The-Tennessee-Patriot_35122
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brownlow, William Gannaway
+    aliases:
+    - Brownlow, Parson
+    - Brownlow, W. G. (William Gannaway)
+    birthdate: 1805
+    deathdate: 1877
+    gutenberg_agent_id: '33270'
+    url: http://www.gutenberg.org/2009/agents/33270
+    wikipedia: http://en.wikipedia.org/wiki/William_Gannaway_Brownlow
+description: ''
+gutenberg_issued: '2011-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35122'
+  lccn: '14019575'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Brownlow, William Gannaway, 1805-1877'
+- !lcsh 'Tennessee, East -- History -- Civil War, 1861-1865'
+title: Portrait and Biography of Parson Brownlow, The Tennessee Patriot
+url: http://www.gutenberg.org/ebooks/35122
